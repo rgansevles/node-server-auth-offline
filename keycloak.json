@@ -1,0 +1,7 @@
+{
+  "clientId": "pedalpact-backend",
+  "ssl-required": "external",
+  "bearerOnly": true,
+  "serverUrl": "http://localhost:8180/auth",
+  "realm": "pedalpact"
+}

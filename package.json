@@ -1,0 +1,12 @@
+{
+  "name": "web_app_protected",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "keycloak-connect": "12.0.4"
+  }
+}
